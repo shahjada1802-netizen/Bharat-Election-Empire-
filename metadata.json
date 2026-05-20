@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Election Empire",
+  "description": "Turn-based political strategy simulator where you create your political party, run campaigns across India, manage public opinion, win seats, and lead the nation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
